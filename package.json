@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GauthierD-/testCircleCI/issues"
   },
-  "homepage": "https://github.com/GauthierD-/testCircleCI#readme"
+  "homepage": "https://github.com/GauthierD-/testCircleCI#readme",
+  "dependencies": {
+    "@rlvt/intelli": "^2.3.1"
+  }
 }

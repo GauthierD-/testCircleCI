@@ -1,0 +1,8 @@
+machine:
+  node:
+    version: 6.5.0
+  environment:
+    NPM_TOKEN: 88ffee85-467a-4581-af54-251c1267faf9
+dependencies:
+  pre:
+    - echo -e $NPM_TOKEN
