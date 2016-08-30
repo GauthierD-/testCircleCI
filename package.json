@@ -1,0 +1,19 @@
+{
+  "name": "test-circle-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauthierD-/testCircleCI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GauthierD-/testCircleCI/issues"
+  },
+  "homepage": "https://github.com/GauthierD-/testCircleCI#readme"
+}
