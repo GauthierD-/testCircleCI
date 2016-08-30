@@ -5,4 +5,4 @@ machine:
     NPM_TOKEN: 88ffee85-467a-4581-af54-251c1267faf9
 dependencies:
   pre:
-    - echo -e $NPM_TOKEN
+    - echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > "${HOME}/.npmrc"
