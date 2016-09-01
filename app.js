@@ -4,4 +4,6 @@ const hello = (name) => {
 
 const coucou = () => {}
 
+const dadsl;
+
 module.exports = hello;
