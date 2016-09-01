@@ -6,4 +6,6 @@ const coucou = () => {}
 
 const dadsl;
 
+const toto = () => {}
+
 module.exports = hello;
